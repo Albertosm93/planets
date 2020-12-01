@@ -1,5 +1,10 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 Semthing added
 changes I want to collide 
+=======
+Semthing addddsdfsds
+dsdsdsds
+>>>>>>> 0a116682ca0ed9fb3ca5009aa78e63ea89191af3
